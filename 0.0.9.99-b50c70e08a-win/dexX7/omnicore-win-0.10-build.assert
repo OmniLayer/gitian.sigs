@@ -2,7 +2,6 @@
 - out_manifest: |
     bbae900b32dc25929300ff26cd044e3192e49a17c590a0d3a2fd2e4024b329bc  omnicore-0.0.9.99-dev-win32-setup.exe
     632106cbc51cb1d0c7e9e4118dc53cb1c9e9c2cb7a987626b71102e86d5cfe8c  omnicore-0.0.9.99-dev-win32.zip
-    942f62294d827418c8cce0bc25c66350b4609831a3cd3e3fb7b525dae016f6eb  omnicore-0.0.9.99-dev-win64-setup.exe
     68d6bd2b8e515ba58969120258098c80a1673f1aa99991f56098d7e1b67de9a0  omnicore-0.0.9.99-dev-win64.zip
     fcd1dc5e3bc70e1217aed28aee6ac94bcad3c3ec6f035e8208ed122999367210  src/omnicore-0.0.9.99-dev.tar.gz
 - in_manifest: |-
